@@ -1,14 +1,16 @@
-👋 Hi, I’m @kasteion a software engineer with a decade of experience, powering small to medium-sized businesses with robust solutions. 
+# Welcome!
 
-⚡️ Full stack developer with experience with experience in Node, Golang, C#, React, and React Native.
+👋 Hi, I’m Fredy Castellón a software engineer with a decade of experience, powering small to medium-sized businesses with robust solutions. 
 
-⚡️ Reliability and thorough testing are my non negotiables. 
-
-⚡️ A team player who sparks success through clear communication. 
-
-⚡️ Always charging ahead, embracing new trends, and electrifying the industry. 
-
-⚡️ Versatile in infrastructure and project roles, ready to amplify your software development journey.
+    ⚡️ Full stack developer with experience with experience in Node, Golang, C#, React, and React Native.
+    
+    ⚡️ Reliability and thorough testing are my non negotiables. 
+    
+    ⚡️ A team player who sparks success through clear communication. 
+    
+    ⚡️ Always charging ahead, embracing new trends, and electrifying the industry. 
+    
+    ⚡️ Versatile in infrastructure and project roles, ready to amplify your software development journey.
 
 
 📫 You can reach me at:
