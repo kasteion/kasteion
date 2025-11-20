@@ -1,6 +1,6 @@
-# Welcome!
+# Hi! 👋
 
-👋 Hi, I’m Fredy Castellón a software engineer with a decade of experience, powering small to medium-sized businesses with robust solutions. 
+ I’m a software engineer based in Guatemala with over decade of experience powering small to medium-sized businesses with robust solutions. 
 
     ⚡️ Full stack developer with experience with experience in Node, Golang, Python, C#, React, and React Native.
     
